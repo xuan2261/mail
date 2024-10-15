@@ -46,3 +46,17 @@ curl --location --request PUT 'http://123.30.48.111:8000/domains/gunmail.xyz'
         }
     }
 }
+
+Subject: hanv@gunmail.xyz
+From: "Van Ng" <nvhabk@gmail.com>
+Date: 15/10/2024 8:39:19 AM +07:00
+--------------------------------------------
+Subject: [Bizfly Cloud] Xác th?c email.
+From: "Bizfly Cloud Customer Service" <no-reply@bizflycloud.vn>
+Date: 15/10/2024 8:41:26 AM +07:00
+--------------------------------------------
+Subject: Xin chào m?ng anh/ch? hanv@gunmail.xyz dã d?n v?i Bizfly Cloud
+From: "Bizfly Cloud" <newsletter@bizflycloud.vn>
+Date: 15/10/2024 1:43:01 AM +00:00
+--------------------------------------------
+
