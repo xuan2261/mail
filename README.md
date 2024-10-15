@@ -1,5 +1,8 @@
 # 1) Cài đặt  james Server  
    Mở các port IMAP 876 143 993, POP 110, SMTP  25,465, WEB ADMIN 8000 Nếu cần
+![ảnh](https://github.com/user-attachments/assets/7f71d65d-e554-4a97-9ab4-5e72542b54cb)
+Bản cài đặt 
+https://www.mediafire.com/file/0h062mcnlnmyfan/james-server-jpa-guice.zip/file
 # 2) Cấu hình domain trỏ về VPS  
 ![ảnh](https://github.com/user-attachments/assets/b06dc416-583e-4f71-a65f-985c66b5fd6d)
 
