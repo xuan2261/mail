@@ -11,6 +11,7 @@ curl --location --request PUT 'http://123.30.48.111:8000/domains/gunmail.xyz'
 --header 'Content-Type: application/json' \
 --data '{"password":"12345678"}' 
     
+# End of the bash block
 
 4) Code đọc mail 
 ```csharp
