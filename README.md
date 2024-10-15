@@ -1,6 +1,6 @@
-1) Cài đặt  james Server  
-2) Cấu hình domain trỏ về VPS  
-3) API quản trị domain, user 
+# 1) Cài đặt  james Server  
+# 2) Cấu hình domain trỏ về VPS  
+# 3) API quản trị domain, user 
 ```bash
 # This is a bash command
     a) Domain list
@@ -14,7 +14,7 @@ curl --location --request PUT 'http://123.30.48.111:8000/domains/gunmail.xyz'
     
 # End of the bash block
 
-4) Code đọc mail 
+# 4) Code đọc mail 
 ```csharp
     using (var client = new Pop3Client())
     {
