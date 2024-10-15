@@ -2,6 +2,7 @@
 2) Cấu hình domain trỏ về VPS  
 3) API quản trị domain, user 
 ```bash
+# This is a bash command
     a) Domain list
 curl --location 'http://123.30.48.111:8000/domains' 
     b) Add domain  
