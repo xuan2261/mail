@@ -2,7 +2,6 @@
 # 2) Cấu hình domain trỏ về VPS  
 # 3) API quản trị domain, user 
 ```bash
-# This is a bash command
     a) Domain list
 curl --location 'http://123.30.48.111:8000/domains' 
     b) Add domain  
@@ -11,9 +10,6 @@ curl --location --request PUT 'http://123.30.48.111:8000/domains/gunmail.xyz'
      curl --location --request PUT 'http://123.30.48.111:8000/users/hanv@gunmail.xyz' \
 --header 'Content-Type: application/json' \
 --data '{"password":"12345678"}' 
-    
-# End of the bash block
-
 # 4) Code đọc mail 
 ```csharp
     using (var client = new Pop3Client())
