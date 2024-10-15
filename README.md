@@ -1,4 +1,5 @@
 # 1) Cài đặt  james Server  
+   Mở các port IMAP 876 143 993, POP 110, SMTP  25,465, WEB ADMIN 8000 Nếu cần
 # 2) Cấu hình domain trỏ về VPS  
 # 3) API quản trị domain, user 
 ```bash
