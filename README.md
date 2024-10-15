@@ -1,9 +1,13 @@
 1) Cài đặt  james Server  
 2) Cấu hình domain trỏ về VPS  
-3) API quản trị domain, user  
+3) API quản trị domain, user 
+```bash
+# Example of a curl command
+curl -X GET "https://api.example.com/data" -H "Authorization: Bearer YOUR_TOKEN" # Fetches data from the API
+ 
     a) Domain list
 ```bash
- #curl --location 'http://123.30.48.111:8000/domains' #
+#curl --location 'http://123.30.48.111:8000/domains' #
     b) Add domain  
 ```bash
 #curl --location --request PUT 'http://123.30.48.111:8000/domains/gunmail.xyz' #
